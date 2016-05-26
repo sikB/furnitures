@@ -1,0 +1,55 @@
+body{
+	background-image: url('../bricks.jpg');
+}
+#page{
+	color: black;
+	max-width: 900px;
+	margin: auto;
+}
+.site-header-menu{
+	position: relative;
+	width: 100%;
+
+}
+.menu-item{
+	/*margin-left: 1%;*/
+	font-size: 16px;
+	text-transform: uppercase;
+}
+.site-title1{
+	font-size: 50px;
+	width: 70%;
+	float: left;
+	font-weight: normal;
+	font-family: 'Montserrat', sans-serif;
+}
+.site-title1 a{
+	color: #a0a0b2;
+	font-family: 'Montserrat', sans-serif;
+}
+.site-description{
+	width: 30%;
+	float: left;
+	font-size: 20px;
+	text-align: right;
+}
+.site-branding{
+	width: 100%;
+	border-bottom: 2px solid #a0a0b2;
+	padding-bottom: 2%;
+	margin-bottom: 0px;
+}
+.main-navigation{
+	float: left;
+}
+.contactEmail{
+	float: right;
+}
+.huge_it_slideshow_image_wrap_1{
+	text-align: center;
+}
+#primary{
+	width: 100%;
+	float: none;
+	margin-left: opx;
+}
